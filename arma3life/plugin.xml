@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Plugin name="Arma 3 Life" lan="LAN_ARMA3EXE_NAME" version="1.0" date="2015-04-18" compatibility="2.0" installRequired="true" >
+	<author name="LaocheXe" url="www.defiantz.org" />
+	<summary lan="LAN_ARMA3EXE_SUMMARY"></summary>
+	<description lan="LAN_ARMA3EXE_DESCRIPTION"></description>
+	<keywords>
+		<word>game</word>
+		<word>arma</word>
+	</keywords>
+	<category>manage</category>
+	<copyright>GNU General Public License v2</copyright>
+	<adminLinks>
+		<link url="admin_config.php" description="" icon="images/icon_32.png" iconSmall="images/icon_16.png" primary="true" >LAN_CONFIGURE</link>
+	</adminLinks>
+	
+</e107Plugin>
